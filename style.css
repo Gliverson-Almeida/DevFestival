@@ -272,3 +272,8 @@ body{
 #carrinho .flex-box .form button{
     margin-top: 30px;
 }
+
+.body.dark{
+    background-color: #01011C;
+    color: white;
+}

@@ -37,3 +37,4 @@ cartForm.addEventListener("submit", (e) => {
     window.location.href = "finalizacao.html"
 
 })
+
